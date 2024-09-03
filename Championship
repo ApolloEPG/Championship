@@ -195,50 +195,6 @@
 <title lang="en">EFL Championship Match</title>
 <desc lang="en">EFL Championship Match</desc>
 </programme>
-<channel id="Bristol City">
-<display-name lang="en">Bristol City</display-name>
-<icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
-</channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v Blackburn Rovers</title>
-<desc lang="en">Next Fixture - Bristol City v Blackburn Rovers - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v Oxford City</title>
-<desc lang="en">Next Fixture - Bristol City v Oxford City - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240703000000 +0000" stop="20240929215959 +0000" channel="Bristol City">
-<title lang="en">Swansea City v Bristol City</title>
-<desc lang="en">Next Fixture - Swansea City v Bristol City - Sunday 29th September - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240704000000 +0000" stop="20241002215959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v Sheffield Wednesday</title>
-<desc lang="en">Next Fixture - Bristol City v Sheffield Wednesday - Wednesday 2nd October - 20:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240705000000 +0000" stop="202410065959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v v Cardiff City</title>
-<desc lang="en">Next Fixture - Bristol City v v Cardiff City - Sunday 6th October - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240707000000 +0000" stop="20241001915959 +0000" channel="Bristol City">
-<title lang="en">Middlesborough v Bristol City</title>
-<desc lang="en">Next Fixture - Middlesborough v Bristol City - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240708000000 +0000" stop="20241022215959 +0000" channel="Bristol City">
-<title lang="en">Stoke City v Bristol City</title>
-<desc lang="en">Next Fixture - Stoke City v Bristol City - Saturday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240709000000 +0000" stop="20241026215959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v Leeds Unitedtitle>
-<desc lang="en">Next Fixture - Bristol City v Leeds United - Saturday 26th October - 12:30 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240710000000 +0000" stop="20241102215959 +0000" channel="Bristol City">
-<title lang="en">Preston North End v Bristol City</title>
-<desc lang="en">Next Fixture - Preston North End v Bristol City - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
-</programme>
-<programme start="20240711000000 +0000" stop="20241105215959 +0000" channel="Bristol City">
-<title lang="en">Bristol City v Sheffield United</title>
-<desc lang="en">Next Fixture - Bristol City v Sheffield United - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
-</programme>
 <channel id="Burnley">
 <display-name lang="en">Burnley</display-name>
 <icon src="https://archive.org/download/Burnley_202309/Burnley.jpg"/>
@@ -282,4 +238,48 @@
 <programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Burnley">
 <title lang="en">West Brom v Burnley</title>
 <desc lang="en">Next Fixture - West Brom v Burnley - Thursday 7th November - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<channel id="Bristol City">
+<display-name lang="en">Bristol City</display-name>
+<icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v Blackburn Rovers</title>
+<desc lang="en">Next Fixture - Bristol City v Blackburn Rovers - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v Oxford City</title>
+<desc lang="en">Next Fixture - Bristol City v Oxford City - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240929215959 +0000" channel="Bristol City">
+<title lang="en">Swansea City v Bristol City</title>
+<desc lang="en">Next Fixture - Swansea City v Bristol City - Sunday 29th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241002215959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v Sheffield Wednesday</title>
+<desc lang="en">Next Fixture - Bristol City v Sheffield Wednesday - Wednesday 2nd October - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="202410065959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v v Cardiff City</title>
+<desc lang="en">Next Fixture - Bristol City v v Cardiff City - Sunday 6th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241001915959 +0000" channel="Bristol City">
+<title lang="en">Middlesborough v Bristol City</title>
+<desc lang="en">Next Fixture - Middlesborough v Bristol City - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241022215959 +0000" channel="Bristol City">
+<title lang="en">Stoke City v Bristol City</title>
+<desc lang="en">Next Fixture - Stoke City v Bristol City - Saturday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241026215959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v Leeds Unitedtitle>
+<desc lang="en">Next Fixture - Bristol City v Leeds United - Saturday 26th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241102215959 +0000" channel="Bristol City">
+<title lang="en">Preston North End v Bristol City</title>
+<desc lang="en">Next Fixture - Preston North End v Bristol City - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241105215959 +0000" channel="Bristol City">
+<title lang="en">Bristol City v Sheffield United</title>
+<desc lang="en">Next Fixture - Bristol City v Sheffield United - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
