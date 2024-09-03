@@ -20,36 +20,36 @@
 <desc lang="en">Next Fixture - Coventry City v Blackburn Rovers - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240705000000 +0000" stop="20240928215959 +0000" channel="Blackburn Rovers">
-<title lang="en">Blackburn Rovers v Leicester City</title>
-<desc lang="en">Next Fixture - Blackburn Rovers v Leicester City - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Plymouth Argyle v Blackburn Rovers</title>
+<desc lang="en">Next Fixture - Plymouth Argyle v Blackburn Rovers - Saturday 5th September - 15:00 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240707000000 +0000" stop="20241001215959 +0000" channel="Blackburn Rovers">
-<title lang="en">Blackburn Rovers v PSG</title>
-<desc lang="en">Next Fixture - Blackburn Rovers v PSG - Tuesday 1st October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+<title lang="en">Blackburn Rovers v Swansea City</title>
+<desc lang="en">Next Fixture - Blackburn Rovers v Swansea City - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240708000000 +0000" stop="20241005215959 +0000" channel="Blackburn Rovers">
 <title lang="en">Blackburn Rovers v Southampton</title>
-<desc lang="en">Next Fixture - Blackburn Rovers v Southampton - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
+<desc lang="en">Next Fixture - Blackburn Rovers v Southampton - Saturday 5th October - 15:00 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240709000000 +0000" stop="20241019215959 +0000" channel="Blackburn Rovers">
 <title lang="en">AFC Bournemouth v Blackburn Rovers</title>
-<desc lang="en">Next Fixture - AFC Bournemouth v Blackburn Rovers - Saturday 19th October - 17:30 Kick Off GMT - English Premier League</desc>
+<desc lang="en">Next Fixture - AFC Bournemouth v Blackburn Rovers - Saturday 19th October - 17:30 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Blackburn Rovers">
-<title lang="en">Blackburn Rovers v SHakhtar Donetsk</title>
-<desc lang="en">Next Fixture - Blackburn Rovers v SHakhtar Donetsk - Tuesday 22nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+<title lang="en">Blackburn Rovers v West Brom</title>
+<desc lang="en">Next Fixture - Blackburn Rovers v West Brom - Wednesday 23nd October - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240711000000 +0000" stop="20241027215959 +0000" channel="Blackburn Rovers">
-<title lang="en">Blackburn Rovers v Liverpool</title>
-<desc lang="en">Next Fixture - Blackburn Rovers v Liverpool - Sunday 27th October - 16:30 Kick Off GMT - English Premier League</desc>
+<title lang="en">Watford v Blackburn Rovers</title>
+<desc lang="en">Next Fixture - Watford v Blackburn Rovers - Saturday 26th October - 12:30 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Blackburn Rovers">
-<title lang="en">Newcastle United v Blackburn Rovers</title>
-<desc lang="en">Next Fixture - Newcastle United v Blackburn Rovers - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Blackburn Rovers v Sheffield United</title>
+<desc lang="en">Next Fixture - Blackburn Rovers v Sheffield United - Saturday 2nd November - 12:30 Kick Off GMT - EFL Championship</desc>
 </programme>
-<programme start="20240713000000 +0000" stop="20240929215959 +0000" channel="Blackburn Rovers">
-<title lang="en">EFL Championship Match</title>
-<desc lang="en">EFL Championship Match</desc>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Blackburn Rovers v Stoke City</title>
+<desc lang="en">Next Fixture - Blackburn Rovers v Stoke City - Wednesday 6th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
 <programme start="20240714000000 +0000" stop="20240929215959 +0000" channel="Blackburn Rovers">
 <title lang="en">EFL Championship Match</title>
@@ -202,4 +202,48 @@
 <programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Blackburn Rovers">
 <title lang="en">EFL Championship Match</title>
 <desc lang="en">EFL Championship Match</desc>
+</programme>
+<channel id="Bristol City">
+<display-name lang="en">Bristol City</display-name>
+<icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v Blackburn Rovers</title>
+<desc lang="en">Next Fixture - Bristol City v Blackburn Rovers - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v Oxford City</title>
+<desc lang="en">Next Fixture - Bristol City v Oxford City - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240919215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Swansea City v Bristol City</title>
+<desc lang="en">Next Fixture - Swansea City v Bristol City - Sunday 29th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240922215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v Sheffield Wednesday</title>
+<desc lang="en">Next Fixture - Bristol City v Sheffield Wednesday - Wednesday 2nd October - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20240928215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v v Cardiff City</title>
+<desc lang="en">Next Fixture - Bristol City v v Cardiff City - Sunday 6th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241001215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Middlesborough v Bristol City</title>
+<desc lang="en">Next Fixture - Middlesborough v Bristol City - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240708000000 +0000" stop="20241005215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Stoke City v Bristol City</title>
+<desc lang="en">Next Fixture - Stoke City v Bristol City - Saturday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240709000000 +0000" stop="20241019215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v Leeds Unitedtitle>
+<desc lang="en">Next Fixture - Bristol City v Leeds United - Saturday 26th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Preston North End v Bristol City</title>
+<desc lang="en">Next Fixture - Preston North End v Bristol City - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241027215959 +0000" channel="Blackburn Rovers">
+<title lang="en">Bristol City v Sheffield United</title>
+<desc lang="en">Next Fixture - Bristol City v Sheffield United - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
