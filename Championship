@@ -195,6 +195,50 @@
 <title lang="en">EFL Championship Match</title>
 <desc lang="en">EFL Championship Match</desc>
 </programme>
+<channel id="Cardiff City">
+<display-name lang="en">Cardiff City</display-name>
+<icon src="https://archive.org/download/Cardiff City_202309/Cardiff City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Cardiff City">
+<title lang="en">Derby County v Cardiff City</title>
+<desc lang="en">Next Fixture - Derby County v Cardiff City - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Cardiff City">
+<title lang="en">Cardiff City v Leeds United</title>
+<desc lang="en">Next Fixture - Cardiff City v Leeds United - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240928215959 +0000" channel="Cardiff City">
+<title lang="en">Hull City v Cardiff City</title>
+<desc lang="en">Next Fixture - Hull City v Cardiff City - Saturday 28th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241001215959 +0000" channel="Cardiff City">
+<title lang="en">Cardiff City v Millwall</title>
+<desc lang="en">Next Fixture - Cardiff City v Millwall - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241006215959 +0000" channel="Cardiff City">
+<title lang="en">Bristol City v Cardiff City</title>
+<desc lang="en">Next Fixture - Bristol City v Cardiff City - Sunday 6th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241001215959 +0000" channel="Cardiff City">
+<title lang="en">Cardiff City v Plymouth Argyle</title>
+<desc lang="en">Next Fixture - Cardiff City v Plymouth Argyle - Saturday 19th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Cardiff City">
+<title lang="en">Cardiff City v Portsmouth</title>
+<desc lang="en">Next Fixture - Cardiff City v Portsmouth - Tuesday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241026215959 +0000" channel="Cardiff City">
+<title lang="en">West Brom v Cardiff City</title>
+<desc lang="en">Next Fixture - West Brom v Cardiff City - Saturday 26th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Cardiff City">
+<title lang="en">Cardiff City v Norwich City</title>
+<desc lang="en">Next Fixture - Cardiff City v Norwich City - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Cardiff City">
+<title lang="en">Luton Town v Cardiff City</title>
+<desc lang="en">Next Fixture - Luton Town v Cardiff City - Wednesday 6th November - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
 <channel id="Burnley">
 <display-name lang="en">Burnley</display-name>
 <icon src="https://archive.org/download/Burnley_202309/Burnley.jpg"/>
