@@ -283,3 +283,8 @@
 <title lang="en">Bristol City v Sheffield United</title>
 <desc lang="en">Next Fixture - Bristol City v Sheffield United - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Brighton">
+<title lang="en">Brighton And Hove Albion v Ipswich Town</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Ipswich Town - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
