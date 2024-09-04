@@ -367,9 +367,53 @@
 <title lang="en">Stoke City v Derby County</title>
 <desc lang="en">Next Fixture - Stoke City v Derby County - Saturday 2nd November - 12:30 Kick Off GMT - EFL Championship</desc>
 </programme>
-<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Derby County">
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Derby County">
 <title lang="en">Coventry City v Derby County</title>
 <desc lang="en">Next Fixture - Coventry City v Derby County - Wednesday 6th November - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<channel id="Hull City">
+<display-name lang="en">Hull City</display-name>
+<icon src="https://archive.org/download/Hull City_202309/Hull City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240913215959 +0000" channel="Hull City">
+<title lang="en">Hull City v Sheffield United</title>
+<desc lang="en">Next Fixture - Hull City v Sheffield United - Friday 13th September - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240920215959 +0000" channel="Hull City">
+<title lang="en">Stoke City v Hull City</title>
+<desc lang="en">Next Fixture - Stoke City v Hull City - Friday 20th September - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240928215959 +0000" channel="Hull City">
+<title lang="en">Hull City v Cardiff City</title>
+<desc lang="en">Next Fixture - Hull City v Cardiff City - Saturday 28th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241001215959 +0000" channel="Hull City">
+<title lang="en">QPR v Hull City</title>
+<desc lang="en">Next Fixture - QPR v Hull City - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241005215959 +0000" channel="Hull City">
+<title lang="en">Norwich City v Hull City</title>
+<desc lang="en">Next Fixture - Norwich City v Hull City - Saturday 5th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241020215959 +0000" channel="Hull City">
+<title lang="en">Hull City v Sunderland</title>
+<desc lang="en">Next Fixture - Hull City v Sunderland - Sunday 20th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241023215959 +0000" channel="Hull City">
+<title lang="en">Hull City v Burnley</title>
+<desc lang="en">Next Fixture - Hull City v Burnley - Wednesday 23rd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241026215959 +0000" channel="Hull City">
+<title lang="en">Derby County v Hull City</title>
+<desc lang="en">Next Fixture - Derby County v Hull City - Saturday 26th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Hull City">
+<title lang="en">Hull City v Portsmouth</title>
+<desc lang="en">Next Fixture - Hull City v Portsmouth - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241105215959 +0000" channel="Hull City">
+<title lang="en">Oxford United v Hull City</title>
+<desc lang="en">Next Fixture - Oxford United v Hull City - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
 <channel id="Bristol City">
 <display-name lang="en">Bristol City</display-name>
