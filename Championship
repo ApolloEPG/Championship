@@ -415,6 +415,50 @@
 <title lang="en">Oxford United v Hull City</title>
 <desc lang="en">Next Fixture - Oxford United v Hull City - Tuesday 5th November - 19:45 Kick Off GMT - EFL Championship</desc>
 </programme>
+<channel id="Leeds United">
+<display-name lang="en">Leeds United</display-name>
+<icon src="https://archive.org/download/Leeds United_202309/Leeds United.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Leeds United">
+<title lang="en">Leeds United v Burnley</title>
+<desc lang="en">Next Fixture - Leeds United v Burnley - Saturday 14th September - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Leeds United">
+<title lang="en">Cardiff City v Leeds United</title>
+<desc lang="en">Next Fixture - Cardiff City v Leeds United - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240928215959 +0000" channel="Leeds United">
+<title lang="en">Leeds United v Coventry City</title>
+<desc lang="en">Next Fixture - Leeds United v Coventry City - Saturday 28th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241001215959 +0000" channel="Leeds United">
+<title lang="en">Norwich City v Leeds United</title>
+<desc lang="en">Next Fixture - Norwich City v Leeds United - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241004215959 +0000" channel="Leeds United">
+<title lang="en">Sunderland v Leeds United</title>
+<desc lang="en">Next Fixture - Sunderland v Leeds United - Friday 4th October - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241018215959 +0000" channel="Leeds United">
+<title lang="en">Leeds United v Sheffield United</title>
+<desc lang="en">Next Fixture - Leeds United v Sheffield United - Friday 18th October - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Leeds United">
+<title lang="en">Leeds United v Watford</title>
+<desc lang="en">Next Fixture - Leeds United v Watford - Tuesday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241026215959 +0000" channel="Leeds United">
+<title lang="en">Bristol City v Leeds United</title>
+<desc lang="en">Next Fixture - Bristol City v Leeds United - Saturday 26th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Leeds United">
+<title lang="en">Leeds United v Plymouth Argyle</title>
+<desc lang="en">Next Fixture - Leeds United v Plymouth Argyle - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Leeds United">
+<title lang="en">Millwall v Leeds United</title>
+<desc lang="en">Next Fixture - Millwall v Leeds United</ - Wednesday 6th November - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
 <channel id="Bristol City">
 <display-name lang="en">Bristol City</display-name>
 <icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
