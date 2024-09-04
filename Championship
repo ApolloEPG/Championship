@@ -327,6 +327,50 @@
 <title lang="en">Middlesbrough v Coventry City</title>
 <desc lang="en">Next Fixture - Middlesbrough v Coventry City - Saturday 2nd November - 15:00 Kick Off GMT - EFL Championship</desc>
 </programme>
+<channel id="Derby County">
+<display-name lang="en">Derby County</display-name>
+<icon src="https://archive.org/download/Derby County_202309/Derby County.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Derby County">
+<title lang="en">Derby County v Cardiff City</title>
+<desc lang="en">Next Fixture - Derby County v Cardiff City - Saturday 14th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Derby County">
+<title lang="en">Sheffield United v Derby County</title>
+<desc lang="en">Next Fixture - Sheffield United v Derby County - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240928215959 +0000" channel="Derby County">
+<title lang="en">Derby County v Norwich City</title>
+<desc lang="en">Next Fixture - Derby County v Norwich City - Saturday 28th September - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20241001215959 +0000" channel="Derby County">
+<title lang="en">Sunderland v Derby County</title>
+<desc lang="en">Next Fixture - Sunderland v Derby County - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241005215959 +0000" channel="Derby County">
+<title lang="en">Derby County v QPR</title>
+<desc lang="en">Next Fixture - Derby County v QPR - Saturday 5th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241019215959 +0000" channel="Derby County">
+<title lang="en">Millwall v Derby County</title>
+<desc lang="en">Next Fixture - Millwall v Derby County - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Derby County">
+<title lang="en">Oxford United v Derby County</title>
+<desc lang="en">Next Fixture - Oxford United v Derby County - Tuesday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241026215959 +0000" channel="Derby County">
+<title lang="en">Derby County v Hull City</title>
+<desc lang="en">Next Fixture - Derby County v Hull City - Saturday 26th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Derby County">
+<title lang="en">Stoke City v Derby County</title>
+<desc lang="en">Next Fixture - Stoke City v Derby County - Saturday 2nd November - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Derby County">
+<title lang="en">Coventry City v Derby County</title>
+<desc lang="en">Next Fixture - Coventry City v Derby County - Wednesday 6th November - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
 <channel id="Bristol City">
 <display-name lang="en">Bristol City</display-name>
 <icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
