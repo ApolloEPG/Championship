@@ -2639,6 +2639,202 @@
 <title lang="en">EFL Championship Match</title>
 <desc lang="en">EFL Championship Match</desc>
 </programme>
+<channel id="Stoke City">
+<display-name lang="en">Stoke City</display-name>
+<icon src="https://archive.org/download/Stoke City_202309/Stoke City.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Stoke City">
+<title lang="en">Oxford United v Stoke City</title>
+<desc lang="en">Next Fixture - Oxford United v Stoke City - Saturday 14th September - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Fleetwood Town</title>
+<desc lang="en">Next Fixture - Stoke City v Fleetwood Town - Tuesday 17th September - 19:30 Kick Off GMT - EFL Caraboa Cup</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240920215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Hull City</title>
+<desc lang="en">Next Fixture - Stoke City v Hull City - Friday 20th September - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240928215959 +0000" channel="Stoke City">
+<title lang="en">Middlesbrough v Stoke City</title>
+<desc lang="en">Next Fixture - Middlesbrough v Stoke City - Saturday 28th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20241002215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Portsmouth</title>
+<desc lang="en">Next Fixture - Stoke City v Portsmouth - Wednesday 2nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241005215959 +0000" channel="Stoke City">
+<title lang="en">Swansea City v Stoke City</title>
+<desc lang="en">Next Fixture - Swansea City v Stoke City - Saturday 5th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241019215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Norwich City</title>
+<desc lang="en">Next Fixture - Stoke City v Norwich City - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241022215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Bristol City</title>
+<desc lang="en">Next Fixture - Stoke City v Bristol City - Tuesday 22nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241026215959 +0000" channel="Stoke City">
+<title lang="en">Sheffield United v Stoke City</title>
+<desc lang="en">Next Fixture - Sheffield United v Stoke City - Saturday 26th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="2024110215959 +0000" channel="Stoke City">
+<title lang="en">Stoke City v Derby County</title>
+<desc lang="en">Next Fixture - Stoke City v Derby County - Saturday 2nd November - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240714000000 +0000" stop="20241011215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240715000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240716000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240717000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240718000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240719000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240720000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240721000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240722000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240723000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240724000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240725000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240726000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240727000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240728000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240729000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240730000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240731000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240801000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240802000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240803000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240804000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240805000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240806000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240807000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240808000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240809000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240810000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240811000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240812000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240813000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240814000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240815000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240816000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240817000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240818000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240819000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
+<programme start="20240820000000 +0000" stop="20240929215959 +0000" channel="Stoke City">
+<title lang="en">EFL Championship Match</title>
+<desc lang="en">EFL Championship Match</desc>
+</programme>
 <channel id="Bristol City">
 <display-name lang="en">Bristol City</display-name>
 <icon src="https://archive.org/download/Bristol City_202309/Bristol City.jpg"/>
